@@ -1,9 +1,173 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36 Edg/131.0.0.0" version="24.9.1">
   <diagram name="第 1 页" id="os7lQGh3RPUHslPOxuDI">
-    <mxGraphModel>
+    <mxGraphModel dx="1700" dy="847" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#fa6800;strokeColor=#000000;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-4" target="A-QUU5SXq2NWoon8mHzu-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="480" y="39.90909090909088" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-4" value="輸入" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="40" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#fa6800;strokeColor=#000000;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-6" target="A-QUU5SXq2NWoon8mHzu-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-6" value="數位健康平台" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#FFEED9;strokeColor=#FF9933;fontColor=#F5972C;strokeWidth=5;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="160" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#fa6800;strokeColor=#FF9D2E;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-8" target="A-QUU5SXq2NWoon8mHzu-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275.0000000000002" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#fa6800;strokeColor=#FF9D2E;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-8" target="A-QUU5SXq2NWoon8mHzu-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-8" value="輸出" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="360" width="480" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#fa6800;strokeColor=#000000;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-51" target="A-QUU5SXq2NWoon8mHzu-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="275" y="679.9999999999998" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#fa6800;strokeColor=#000000;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-10" target="A-QUU5SXq2NWoon8mHzu-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-10" value="&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#0066cc&quot;&gt;社群&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;社群及社區可近性&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;■&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;及時提供健康服務&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;■&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;知道如何取得健康服務&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;■ &lt;/span&gt;提供健康促進課程報名的服務說明&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;以社群及社區為中心&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;■&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;賦能(社群健康活動參與度提升)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;■&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;根據社區長者滿意度調查優化服務及課程規劃&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;■&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;經濟價值(SORI)&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;■&lt;/span&gt;&lt;span style=&quot;font-family: Helvetica; background-color: initial;&quot;&gt;&amp;nbsp;&lt;/span&gt;認為件促服務及健康諮詢可靠並信任平台&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#E6EDF7;strokeColor=#6c8ebf;align=left;verticalAlign=top;spacingTop=0;spacing=8;spacingLeft=21;spacingRight=6;" vertex="1" parent="1">
+          <mxGeometry x="410" y="440" width="230" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-11" value="結果" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="320" y="760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-20" value="支持系統" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="519" y="169" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-21" value="CHW發展" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="519" y="225" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-22" value="其他群體支持" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="520" y="281" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-26" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-6" target="A-QUU5SXq2NWoon8mHzu-20">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="370" as="sourcePoint" />
+            <mxPoint x="590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-27" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-6" target="A-QUU5SXq2NWoon8mHzu-21">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="370" as="sourcePoint" />
+            <mxPoint x="590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-28" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-6" target="A-QUU5SXq2NWoon8mHzu-22">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="370" as="sourcePoint" />
+            <mxPoint x="590" y="320" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-30" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0;exitDx=0;exitDy=0;fontStyle=1;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-4">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="350" as="sourcePoint" />
+            <mxPoint x="520" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-32" value="&lt;span&gt;國家政策&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="520" y="30" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-33" value="■ CHW篩選&lt;div&gt;■ 界定CHW工作範圍&lt;/div&gt;&lt;div&gt;(提供工具包)&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="640" y="25" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-34" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-32" target="A-QUU5SXq2NWoon8mHzu-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="600" y="40" as="sourcePoint" />
+            <mxPoint x="680" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-35" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;中央政府&lt;/div&gt;&lt;div&gt;地方政府&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="520" y="65" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-36" value="&lt;br&gt;&lt;div&gt;&lt;div&gt;&lt;div&gt;資金勸募&lt;/div&gt;&lt;div&gt;支持社區據點&lt;/div&gt;&lt;/div&gt;&lt;div&gt;&lt;br style=&quot;&quot;&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="520" y="105" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-37" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-4" target="A-QUU5SXq2NWoon8mHzu-35">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-38" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-4" target="A-QUU5SXq2NWoon8mHzu-36">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="170" as="sourcePoint" />
+            <mxPoint x="530" y="120" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-41" value="■ 張榮發基金會" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="640" y="105" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-42" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-36" target="A-QUU5SXq2NWoon8mHzu-41">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="590" y="50" as="sourcePoint" />
+            <mxPoint x="650" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-43" value="■ 鏈結專業講師&lt;div&gt;■ 監督及評價健促課程執行&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="640" y="169" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-44" value="■ 訓練使用科技工具&lt;div&gt;■ 調查科技接受度&lt;/div&gt;&lt;div&gt;■ 增加服務知能&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="640" y="225" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-45" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-20" target="A-QUU5SXq2NWoon8mHzu-43">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="467" y="193" as="sourcePoint" />
+            <mxPoint x="529" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-46" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontStyle=1;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-21" target="A-QUU5SXq2NWoon8mHzu-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="589" y="194" as="sourcePoint" />
+            <mxPoint x="650" y="194" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-47" value="■ 訓練使用科技工具&lt;div&gt;■ 調查科技接受度&lt;/div&gt;&lt;div&gt;■ 增加服務知能&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="640" y="281" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-48" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-22" target="A-QUU5SXq2NWoon8mHzu-47">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="540" y="380" as="sourcePoint" />
+            <mxPoint x="590" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-51" value="&lt;div style=&quot;&quot;&gt;&lt;div style=&quot;line-height: 100%;&quot;&gt;&lt;div style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;&lt;font color=&quot;#009900&quot;&gt;社區工作者(人)&lt;/font&gt;&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;CHW能力及福祉&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;■&amp;nbsp;&lt;/span&gt;提升對社區長者健康狀態的敏銳度&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;■&amp;nbsp;&lt;/span&gt;減輕工作壓力&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;■&amp;nbsp;&lt;/span&gt;提升動機及自信&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;■&amp;nbsp;&lt;/span&gt;服務時的滿意度&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;line-height: 16px;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 8px;&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 14px; line-height: 100%;&quot;&gt;&lt;span&gt;提供遠距健康服務&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;■ 根據社區需求提供客製化課程方案&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;■ 健康促進課程&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;■ 健康諮詢服務&lt;/span&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;■ 積極疾病預防&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 20px;&quot;&gt;&lt;span style=&quot;font-size: 10px; line-height: 100%;&quot;&gt;■ 調查長者資料&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1;fontFamily=Microsoft YaHei;labelBorderColor=none;textShadow=0;fillColor=#EAFFE9;strokeColor=#82b366;align=left;verticalAlign=top;spacingTop=0;spacing=8;spacingLeft=22;spacingBottom=0;spacingRight=0;" vertex="1" parent="1">
+          <mxGeometry x="160" y="440" width="230" height="280" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-54" value="健康結果提升" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="519" y="790" width="81" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-55" value="■ 長者健康調查訪談標準流程&lt;div&gt;■ 簡式健康量表(BSRS-5)&lt;/div&gt;&lt;div&gt;■ 長者整合性照護指標(ICOPE)&lt;div&gt;■ 中文版健康適能調查問卷(HLS)&lt;div&gt;■ 了解個管與諮詢需求&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=1;fontFamily=Microsoft YaHei;" vertex="1" parent="1">
+          <mxGeometry x="639" y="760" width="181" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;fontFamily=Microsoft YaHei;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-54" target="A-QUU5SXq2NWoon8mHzu-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="599" y="800" as="sourcePoint" />
+            <mxPoint x="679" y="930" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="A-QUU5SXq2NWoon8mHzu-57" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="A-QUU5SXq2NWoon8mHzu-11" target="A-QUU5SXq2NWoon8mHzu-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="530" y="890" as="sourcePoint" />
+            <mxPoint x="580" y="840" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
